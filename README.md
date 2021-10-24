@@ -1,5 +1,6 @@
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurabreuvieira&count_private=true&show_icons=true&theme=algolia&bg_color=0,050f2c,00343d&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurabreuvieira&langs_count=10&layout=compact&show_icons=true&theme=algolia&bg_color=0,050f2c,00343d&hide_border=true)
+![github contribution grid snake animation](https://raw.githubusercontent.com/arthurabreuvieira/arthurabreuvieira/output/github-contribution-grid-snake.svg)
 -----------------
 # Olá, eu sou o Arthur <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Hello">
 > ### Gosto de matemática, atividades lógicas, tecnologia e programação. Sempre em busca de conhecimento, procuro aprender algo novo todos os dias.
