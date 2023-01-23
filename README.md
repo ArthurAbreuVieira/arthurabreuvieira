@@ -63,8 +63,8 @@
   </a>
 </p>
 
-### Softwares
-<!-- <p align="left"> 
+<!-- ### Softwares
+<p align="left"> 
   <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/after-effects-cc.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
