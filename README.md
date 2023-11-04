@@ -3,11 +3,12 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/arthurabreuvieira/arthurabreuvieira/output/github-contribution-grid-snake.svg)
 -----------------
 # Olá, eu sou o Arthur <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="Hello">
-> ### Gosto de matemática, atividades lógicas, tecnologia e programação. Sempre em busca de conhecimento, procuro aprender algo novo todos os dias.
+> ### Sou um programador e tenho uma paixão pela segurança cibernética, comprovada pela minha medalha de prata na última edição da WorldSkills Brasil nessa categoria. Sou alguém que aprecia a lógica e que busca ativamente resolver desafios. Minhas habilidades em hacking ético me permitem abordar problemas complexos com criatividade e inovação.
 -----------------
 ## Principais Interesses 🎯
 ![](https://img.shields.io/badge/-PHP-4d5bff?style=for-the-badge)
 ![](https://img.shields.io/badge/-LARAVEL-eb3c2c?style=for-the-badge)
+![](https://img.shields.io/badge/next%20js-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-JAVASCRIPT-ffda1f?style=for-the-badge)
 ![](https://img.shields.io/badge/-REACT%20NATIVE-27d9fe?style=for-the-badge)
 ![](https://img.shields.io/badge/-REACT%20JS-27d9fe?style=for-the-badge)
@@ -16,16 +17,24 @@
 ## Contato 📱
   <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arthurabreuvieiramendes@gmail.com" width="60px"> arthurabreuvieiramendes@gmail.com
   
+  <img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/arthurabreuvieira/" width="60px"> https://www.linkedin.com/in/arthurabreuvieira/
+  
 -----------------
 ## Habilidades 🛠️
 
 ### Linguagens, bibliotecas e frameworks
 <p align="left"> 
+  <a href="" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -48,6 +57,9 @@
   <a href="https://materializecss.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
   </a> 
+  <a href="" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
 </p>
 
 ### Bancos de dados
